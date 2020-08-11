@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi I am Krishnaprakash 👋
 
-<!--
-**krishnaprakash94/krishnaprakash94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### I'm a core Android Developer
 
-Here are some ideas to get you started:
+### ✨ Expertise:
+* Mobile Application Development (Android, Java, Kotlin)
+* Design Pattern (MVVM)
+* Material Design
+* AndroidX
+* Customizing Third Party Libraries
+* Payment Gateways (Google Pay, Stripe, Paypal)
+* Project Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Learning:
+* Kotlin
+* CI | CD
+* Unit Testing
+
+### 📫 Reach me via 👇🏻: 
+
+* Instagram - https://www.instagram.com/krishnaprakashkasthurisamy/
+* Github - https://github.com/krishnaprakash94
+* LinkedIn - https://www.linkedin.com/in/krishnaprakash-k-380b6baa/
+* Facebook - https://www.facebook.com/krishna.prakash.7965/
+
+### 📊 Stats: 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnaprakash94&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaprakash94)
